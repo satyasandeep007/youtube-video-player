@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactPlayer from 'react-player';
+import './App.css'
 
  
 export default class App extends Component {
